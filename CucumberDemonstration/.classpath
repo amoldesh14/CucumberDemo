@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/cucumber-core-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/cucumber-java-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/cucumber-junit-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/cucumber-reporting-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/gherkin-11.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/selenium-server-4.0.0-alpha-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/cluecumber-report-plugin-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AMOL/Downloads/Cucumber-Selenium-Jars/jasypt-1.9.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
